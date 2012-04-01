@@ -1,0 +1,14 @@
+/*
+ * Projeto:     CorreiosRSS: Gerador de RSS para um objeto nos correios
+ * File:        rss_parse.inc includes code for parsing
+ *                RSS, and returning an RSS object
+ * Author:      Augusto de Carvalho Fontes <augusto@tumate.com>
+ * Version:        0.2
+ * License:        GPL
+ *
+ * A última versão deste código pode ser obtida em:
+ * http://www.augustofontes.com
+ *
+ */
+
+Um script bem antigo para gerar RSS dos correios. Não sou o autor, apenas fiz umas motificações para que funcionasse no PHP5.3 e estou disponibilizando aqui porque o site do autor não existe mais.
