@@ -1,7 +1,5 @@
 /*
  * Projeto:     CorreiosRSS: Gerador de RSS para um objeto nos correios
- * File:        rss_parse.inc includes code for parsing
- *                RSS, and returning an RSS object
  * Author:      Augusto de Carvalho Fontes <augusto@tumate.com>
  * Version:        0.2
  * License:        GPL
