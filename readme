@@ -10,3 +10,8 @@
  */
 
 Um script bem antigo para gerar RSS dos correios. Não sou o autor, apenas fiz umas motificações para que funcionasse no PHP5.3 e estou disponibilizando aqui porque o site do autor não existe mais.
+
+
+O funcionamento é bem simples, é só passar o codigo de rastreamento no parametro 'id'.
+
+/correios.rss.php?id=DL101790529BR
