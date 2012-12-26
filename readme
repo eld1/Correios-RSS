@@ -15,3 +15,7 @@ Um script bem antigo para gerar RSS dos correios. Não sou o autor, apenas fiz u
 O funcionamento é bem simples, é só passar o codigo de rastreamento no parametro 'id'.
 
 /correios.rss.php?id=DL101790529BR
+
+
+Página funcionando:
+http://valencarj.com.br/correios/?id=PG063556214BR
