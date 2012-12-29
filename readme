@@ -9,13 +9,15 @@
  *
  */
 
-Um script bem antigo para gerar RSS dos correios. Não sou o autor, apenas fiz umas motificações para que funcionasse no PHP5.3 e estou disponibilizando aqui porque o site do autor não existe mais.
+Um script bem antigo para gerar RSS para rastreamento de objeto nos Correios. Não sou o autor, apenas fiz umas motificações para que funcionasse em PHP5.3 e estou disponibilizando aqui porque o site do autor não existe mais.
 
 
-O funcionamento é bem simples, é só passar o codigo de rastreamento no parametro 'id'.
+O funcionamento é bem simples, é só passar o código de rastreamento no parâmetro 'id'.
 
 /correios.rss.php?id=DL101790529BR
 
 
 Página funcionando:
+http://valencarj.com.br/correios/
+
 http://valencarj.com.br/correios/?id=PG063556214BR
