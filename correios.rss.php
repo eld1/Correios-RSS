@@ -19,7 +19,7 @@ date_default_timezone_set('America/Sao_Paulo');
 ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-    <title>Rastreamento de Objeto</title>
+    <title><?=$obj->identificador ?> - Rastreamento de Objeto</title>
     <description><?=$obj->identificador ?> - <?=$obj->tipo_objeto ?> - Historico do Objeto</description>
     <link>http://www.correios.com.br</link>
     <pubDate><?=date("r")?></pubDate>
