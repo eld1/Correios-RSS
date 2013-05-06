@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('America/Sao_Paulo');
 
-    // Error handler 
+    // Error handler
     function erro_correios($type, $msg, $file, $line, $context) {
         $title = "Correios.rss Erro";
         //include("../header.php");
